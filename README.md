@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1051-height-checker) |
 ## Dynamic Programming
