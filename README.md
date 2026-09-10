@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
