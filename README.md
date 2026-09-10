@@ -90,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
