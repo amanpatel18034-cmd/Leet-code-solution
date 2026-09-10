@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1089-duplicate-zeros) |
 ## Math
 |  |
 | ------- |
