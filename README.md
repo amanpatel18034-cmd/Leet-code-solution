@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1089-duplicate-zeros) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
