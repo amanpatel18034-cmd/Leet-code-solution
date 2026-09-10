@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0905-sort-array-by-parity) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0905-sort-array-by-parity) |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
