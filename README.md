@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0066-plus-one) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0169-majority-element) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0027-remove-element) |
