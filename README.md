@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -150,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
