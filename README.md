@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
