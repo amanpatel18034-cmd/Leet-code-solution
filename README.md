@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0027-remove-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -198,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
