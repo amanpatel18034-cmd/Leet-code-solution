@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0905-sort-array-by-parity) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
