@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0392-is-subsequence) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0844-backspace-string-compare) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0680-valid-palindrome-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
