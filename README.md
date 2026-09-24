@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
