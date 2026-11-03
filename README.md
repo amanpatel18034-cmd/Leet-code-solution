@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1089-duplicate-zeros) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
