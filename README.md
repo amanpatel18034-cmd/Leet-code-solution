@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0941-valid-mountain-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0523-continuous-subarray-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 ## Combinatorics
 |  |
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
