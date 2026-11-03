@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0844-backspace-string-compare) |
