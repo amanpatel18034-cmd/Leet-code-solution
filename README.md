@@ -246,4 +246,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
