@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0414-third-maximum-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0383-ransom-note) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0414-third-maximum-number) |
@@ -133,10 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -276,4 +281,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
