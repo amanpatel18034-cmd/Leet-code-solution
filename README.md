@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
