@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0138-copy-list-with-random-pointer) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
