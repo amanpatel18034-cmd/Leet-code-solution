@@ -284,10 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -336,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0187-repeated-dna-sequences) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
