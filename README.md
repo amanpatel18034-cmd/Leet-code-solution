@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0344-reverse-string) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 ## Queue
 |  |
 | ------- |
@@ -314,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -322,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0069-sqrtx) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
