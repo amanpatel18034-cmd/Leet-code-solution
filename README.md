@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0523-continuous-subarray-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0523-continuous-subarray-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amanpatel18034-cmd/Leet-code-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
